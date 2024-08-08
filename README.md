@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmad Ikhdair</h1>
-<h3 align="center">Software Engineering Student & Web Developer</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadikhdair&label=Profile%20views&color=ff0000&style=plastic" alt="ahmadikhdair" /> </p>
 
 - 🔭 I’m currently working on **improving my backend skils**
 
-- 🌱 I’m currently learning **PostgreSQL and React**
+- 🌱 I’m currently learning **Sequelize and TypeScript**
 
 - 📫 How to reach me **ahmadikhdair@gmail.com**
 
