@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadikhdair&label=Profile%20views&color=ff0000&style=plastic" alt="ahmadikhdair" /> </p>
 
-- 🔭 I’m currently working on **Web application projects**
-
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
-
 - 📫 How to reach me **ahmadikhdair@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
