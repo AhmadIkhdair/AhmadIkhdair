@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Ikhdair</h1>
-<h3 align="center">Software Engineering Student</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadikhdair&label=Profile%20views&color=ff0000&style=plastic" alt="ahmadikhdair" /> </p>
 
